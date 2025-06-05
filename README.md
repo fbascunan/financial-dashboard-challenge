@@ -1,5 +1,10 @@
-# Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+
+i.	SearchBarComponent: Barra de búsqueda de instrumentos.
+ii.	HeaderComponent: Muestra el nombre del índice (IPSA) y el valor actual con sus variaciones.
+iii.	ChartComponent: Gráfico que muestra la evolución del índice seleccionado en diferentes periodos (1M, 3M, 6M, 1A).
+iv.	TabComponent: Permite cambiar entre diferentes índices (IPSA, IGPA, NASDAQ, etc.).
+v.	SummaryComponent: Muestra el detalle de la cotización y otros datos relevantes.
+vi.	InstrumentListComponent: Lista de instrumentos (acciones) con su información clave.
+vii.	InstrumentItemComponent: Cada fila de la lista de instrumentos, la cual debe ser interactiva.
